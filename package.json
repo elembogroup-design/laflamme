@@ -1,0 +1,14 @@
+{
+  "name": "la-flamme",
+  "version": "1.0.0",
+  "description": "La Flamme \u2014 vision, mission, plan d'action et suivi d'habitudes, par Franck Katshunga.",
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
